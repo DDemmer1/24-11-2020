@@ -9,7 +9,8 @@ Diese Aufgabe soll euch in den Umgang mit Objekten einführen.
 
 
 Erstellt eine Klasse ```Hund``` die 3 sinnvolle Attribute hat (z.B. ```int age```). 
-Die Klasse ```Hund``` soll außerdem einen Konstruktor und 2 Methoden haben (z.B. ```bellen()```)
+Die Klasse ```Hund``` soll außerdem einen Konstruktor und eine Methoden haben (z.B. ```bellen()```)
+Erzeugt in der ```main``` Methode ein neues Objekt vom Typ ```Hund``` und greift auf die Attribute und die Methode zu
 
 
 ### ℹ️ Resourcen:
